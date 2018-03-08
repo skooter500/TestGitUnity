@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class CameraControl : MonoBehaviour {
 
+    //Um... hi?
     // Happy mothers day
 	// Use this for initialization
 	void Start () {
