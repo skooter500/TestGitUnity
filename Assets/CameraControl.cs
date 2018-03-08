@@ -5,7 +5,7 @@ using UnityEngine;
 public class CameraControl : MonoBehaviour {
 
     // Happy mothers day
-	// The trancendental object at the end of time
+	// diddling the dose
 	// Use this for initialization
 	void Start () {
 		
