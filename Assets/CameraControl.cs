@@ -6,6 +6,7 @@ public class CameraControl : MonoBehaviour {
 
     //Um... hi?
     // Happy mothers day
+	// The trancendental object at the end of time
 	// Use this for initialization
 	void Start () {
 		
